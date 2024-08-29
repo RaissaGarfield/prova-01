@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(130, 173, 230);
+}
+nav a{
+font-size: 28px;
+text-decoration: none;
+color: rgb(187, 215, 247);
+font-weight: bold;
+}
+a:hover {
+    background-color: rgb(143, 194, 253);
+}
+h1{
+    font-size: 40px;
+    color: rgb(50, 87, 189);
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2{
+    font-size: 32px;
+    color: rgb(60, 103, 196)
+}
+p{
+    font-size: 30px;
+    color: rgb(196, 238, 238);
+}
+div img{
+    border: solid white 6px;
+    border-style: dashed ;
+}
+div small{
+    color: darkblue;
+    font-size: larger;
+}
+
